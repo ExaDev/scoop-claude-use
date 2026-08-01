@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ExaDev/claude-use/releases/download/v0.1.0/claude-use-windows-x64.zip",
-            "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+            "hash": "8a66854cf514f23a7af676d3b5fb2627a15f3b27af8b13b2cdd7073bc59f1fc1"
         }
     },
     "bin": [
