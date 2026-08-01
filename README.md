@@ -9,7 +9,7 @@ scoop bucket add claude-use https://github.com/ExaDev/scoop-claude-use
 scoop install claude-use
 ```
 
-This installs both `claude` and `claude-use` — the same two commands the project's own binary installer and `npm install -g claude-use` provide, since both names resolve to the same executable. See [the main repo's Install section](https://github.com/ExaDev/claude-use#install) for the full comparison across all four distribution channels.
+This installs `claude-use` alone, the same as the project's own binary installer and `npm install -g claude-use`. It does not install a `claude` command; run `claude-use shim enable` afterward if you'd also like the shorter `claude @<name>` form (`claude-use shim disable` undoes it). See [the main repo's Install section](https://github.com/ExaDev/claude-use#install) for the full comparison across all four distribution channels.
 
 ## Manifest
 
