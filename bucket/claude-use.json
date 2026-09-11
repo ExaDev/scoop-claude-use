@@ -1,16 +1,16 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "Profile manager and launcher for Claude Code with per-directory sharing rules",
     "homepage": "https://github.com/ExaDev/claude-use",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ExaDev/claude-use/releases/download/v2.0.3/claude-use-windows-x64.zip",
-            "hash": "533ce294c6079d4b1787a22f48d5c56977ae6b38e7210e822342b5aa2e7ee5ba"
+            "url": "https://github.com/ExaDev/claude-use/releases/download/v2.0.4/claude-use-windows-x64.zip",
+            "hash": "71c387bc480d43cb144e0716b665f7c169373dc77a7ec2fde129e89e25221058"
         },
         "arm64": {
-            "url": "https://github.com/ExaDev/claude-use/releases/download/v2.0.3/claude-use-windows-arm64.zip",
-            "hash": "e4518fb8d546859363df9c0b7d7b58063e13a2c7cb0ee022629229718c3be409"
+            "url": "https://github.com/ExaDev/claude-use/releases/download/v2.0.4/claude-use-windows-arm64.zip",
+            "hash": "88767de17e662901548088b219d128d41d3dd524e896c23cce5e1672d29a159d"
         }
     },
     "bin": "claude-use.exe",
